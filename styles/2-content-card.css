@@ -1,0 +1,44 @@
+.content-card {
+  background: url("./images/epic-dark-sky-view.jpeg") no-repeat center center fixed;
+  height: 500px;
+  max-width: 700px;
+  margin: auto;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin: auto;
+  padding: 30px 0;
+  display: block;
+}
+
+.card-description {
+  line-height: 20px;
+  padding: 30px 0;
+}
+
+.carl-sagan-link {
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+.icon-list {
+  padding: 15px 0;
+}
+
+.icons {
+  width: 30px;
+  height: 30px;
+  margin: 15px 30px;
+  padding: 10px;
+  display: inline-flex;
+  justify-content: space-between;
+  flex-direction: row;
+
+}
+
+article {
+  font-family: 'Unna', serif;
+}
